@@ -1,0 +1,2 @@
+ this is line 1 of demo1.txt
+this is line2 of demo1.txt
