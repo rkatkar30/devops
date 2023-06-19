@@ -1,2 +1,5 @@
 this is line1 of sample2.txt
-This is line2 of simple2.txt
+This is line2 of simple2.txi
+
+
+his is line3 of sample2.txt
